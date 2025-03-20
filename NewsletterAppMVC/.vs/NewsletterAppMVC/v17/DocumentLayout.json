@@ -7,23 +7,16 @@
       "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Newsletter/True/SqlTable/dbo.SignUps.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,25 +38,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupVm.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:18:49.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.SignUps [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Newsletter/True/SqlTable/dbo.SignUps.sql",
-              "ToolTip": "dbo.SignUps [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-19T22:58:52.465Z",
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T21:05:44.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T21:52:51.724Z",
+              "Title": "NewsletterSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Models\\NewsletterSignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:00:41.195Z",
               "EditorCaption": ""
             },
             {
@@ -74,48 +83,9 @@
               "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAACMAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:16:56.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Content\\Site.css",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Content\\Site.css",
-              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Content\\Site.css",
-              "RelativeToolTip": "NewsletterAppMVC\\Content\\Site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-18T18:56:31.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NewsletterAppMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T18:41:24.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NewsletterAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T18:37:14.538Z",
+              "WhenOpened": "2025-03-20T18:58:39.422Z",
               "EditorCaption": ""
             }
           ]
