@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|c:\\users\\ramusiup\\documents\\myrepository\\mvc\\newsletterappmvc\\newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326FA609-1485-45A5-98C6-37F7855F388E}|NewsletterAppMVC\\NewsletterAppMVC.csproj|solutionrelative:newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupVm.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\ViewModels\\SignupVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:54:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T11:22:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NewsletterAppMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:17:01.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NewsletterAppMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Ramusiup\\Documents\\myRepository\\MVC\\NewsletterAppMVC\\NewsletterAppMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NewsletterAppMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T10:49:12.208Z",
               "EditorCaption": ""
